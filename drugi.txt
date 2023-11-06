@@ -6,3 +6,5 @@ druga funkcionalnost
 evo promjena i u drugom fajlu
 ja unosim neke promjene
 u fajlu drugi.txt
+kolega unosi
+promjene u istom fajlu
